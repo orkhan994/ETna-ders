@@ -44,11 +44,11 @@ font-size: 25px;
 .hero{
     display: flex;
     padding: 50px 100px;
-    max-width: 600px;
+ 
 }
 
 .right-side, .left-side{
-    max-width: 300px;
+    max-width: 500px;
 }
 
 .right-side{
@@ -66,6 +66,17 @@ font-size: 25px;
 .right-yuxari-sol, .right-asagi-sol {
 
     display: flex;
-    width: 10px;
-    height: 10px;
 }
+
+.right-yuxari-sol img{
+
+    width: 200px;
+    height: 120px;
+}
+
+.right-asagi-sol img{
+
+    width: 200px;
+    height: 120px;
+}
+
